@@ -1,5 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git lfs install
 git lfs track "*.psd"
 git add file.psd
 git commit -m "Add design file"
